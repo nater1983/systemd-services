@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/nater1983/hostnamed/issues\n"
 "POT-Creation-Date: 2025-01-01 00:00+0000\n"
 "PO-Revision-Date: 2026-08-18 02:51+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Last-Translator: Nathaniel Russell <naterussell83@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/hostnamed/"
 "hostnamed/id/>\n"
 "Language: id\n"
@@ -21,11 +21,11 @@ msgstr ""
 
 #: data/org.freedesktop.hostname1.policy:9
 msgid "Set the transient host name"
-msgstr "Tetapkan nama host sementara"
+msgstr "Mengatur nama host sementara"
 
 #: data/org.freedesktop.hostname1.policy:10
 msgid "Authentication is required to set the transient host name."
-msgstr "Autentikasi diperlukan untuk menetapkan nama host sementara."
+msgstr "Autentikasi diperlukan untuk menetapkan nama host statis."
 
 #: data/org.freedesktop.hostname1.policy:22
 msgid "Set the static host name"
