@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: hostnamed 0.2.7\n"
 "Report-Msgid-Bugs-To: https://github.com/nater1983/hostnamed/issues\n"
 "POT-Creation-Date: 2025-01-01 00:00+0000\n"
-"PO-Revision-Date: 2026-06-28 15:37+0000\n"
+"PO-Revision-Date: 2026-08-18 02:51+0000\n"
 "Last-Translator: Nathaniel Russell <naterussell83@gmail.com>\n"
 "Language-Team: Arabic (Latin script) <https://hosted.weblate.org/projects/"
 "hostnamed/hostnamed/ar_Latn/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 2026.7.dev0\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 #: data/org.freedesktop.hostname1.policy:9
 msgid "Set the transient host name"
@@ -26,36 +26,36 @@ msgstr "وضع اسم المضيف العابر"
 
 #: data/org.freedesktop.hostname1.policy:10
 msgid "Authentication is required to set the transient host name."
-msgstr ""
+msgstr "ويلزم التوثيق لتحديد اسم المضيف العابر."
 
 #: data/org.freedesktop.hostname1.policy:22
 msgid "Set the static host name"
-msgstr ""
+msgstr "حدد اسم المضيف الثابت"
 
 #: data/org.freedesktop.hostname1.policy:23
 msgid "Authentication is required to set the static host name."
-msgstr ""
+msgstr "ويلزم التوثيق لتحديد اسم المضيف العابر."
 
 #: data/org.freedesktop.hostname1.policy:32
 msgid "Set machine information (pretty name, icon, chassis)"
-msgstr ""
+msgstr "وضع معلومات عن الآلات (الاسم السابق، الإيكون، والفوضى)"
 
 #: data/org.freedesktop.hostname1.policy:33
 msgid "Authentication is required to set machine information."
-msgstr ""
+msgstr "ويلزم التوثيق لتحديد المعلومات الآلاتية."
 
 #: data/org.freedesktop.hostname1.policy:42
 msgid "Get the hardware product UUID"
-msgstr ""
+msgstr "الحصول على منتج المعدات UUID"
 
 #: data/org.freedesktop.hostname1.policy:43
 msgid "Authentication is required to read the hardware product UUID."
-msgstr ""
+msgstr "ويلزم التوثيق لقراءة منتج المعدات UUID."
 
 #: data/org.freedesktop.hostname1.policy:52
 msgid "Get the hardware serial number"
-msgstr ""
+msgstr "احصل على رقم التسلسل"
 
 #: data/org.freedesktop.hostname1.policy:53
 msgid "Authentication is required to read the hardware serial number."
-msgstr ""
+msgstr "ويلزم التوثيق لقراءة الرقم التسلسلي للمعدات."
